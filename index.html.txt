@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thực hành thẻ Liên kết</title>
+</head>
+<body>
+    <h1>Liên kết yêu thích của tôi</h1>
+    
+    <!-- Danh sách chứa 3 liên kết, trong đó link đầu tiên có target="_blank" -->
+    <ul>
+        <li><a href="https://www.google.com/" target="_blank">Tìm kiếm Google (Mở tab mới)</a></li>
+        <li><a href="https://github.com/">Trang chủ GitHub</a></li>
+        <li><a href="https://codegym.vn/">Trang chủ CodeGym</a></li>
+    </ul>
+
+    <!-- Liên kết đến một file HTML khác cùng thư mục -->
+    <h2>Tìm hiểu thêm</h2>
+    <p>Nhấp vào đây để xem <a href="about.html">Trang Giới thiệu bản thân</a>.</p>
+
+    <!-- Liên kết gửi email -->
+    <h2>Liên hệ</h2>
+    <p>Nếu bạn có thắc mắc, hãy <a href="mailto:emailcuaban@gmail.com">Gửi email cho tôi</a>.</p>
+</body>
+</html>

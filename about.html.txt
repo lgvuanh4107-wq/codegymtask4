@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu</title>
+</head>
+<body>
+    <h1>Giới thiệu về tôi</h1>
+    <p>Đây là một trang HTML đơn giản để thực hành việc điều hướng giữa các trang web cục bộ (cùng thư mục).</p>
+    
+    <!-- Link quay lại trang chủ -->
+    <a href="index.html">Quay lại trang chủ (index.html)</a>
+</body>
+</html>
